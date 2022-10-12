@@ -1,0 +1,7 @@
+print(21+19)
+print(70-30)
+print(20*2)
+print(120/3)
+print(81%41)
+print(5//2)
+print(2**4)
